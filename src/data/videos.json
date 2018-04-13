@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "title": "Episode 1",
+        "path": "http://wms.shared.streamshow.it/carinatv/carinatv/playlis.m3u8"
+    },
+    {
+        "id": "2",
+        "title": "Episode 2",
+        "path": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+    },
+    {
+        "id": "3",
+        "title": "Episode 3",
+        "path": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+    },
+    {
+        "id": "4",
+        "title": "Episode 4",
+        "path": "https://mnmedias.api.telequebec.tv/m3u8/29880.m3u8"
+    },
+    {
+        "id": "5",
+        "title": "Episode 5",
+        "path": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8"
+    }
+]
