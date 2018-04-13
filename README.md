@@ -19,6 +19,8 @@ Just clone the repo, cd to the root of the folder and run docker-compose to buil
 ~/video-stream# docker-compose up -d --build
 ```
 
+The app should be available at [http://localhost:3000](http://localhost:3000)
+
 ## Authors
 
 * **Sylvain Bigonneau** - *Initial work* - [SylvainBigonneau](https://github.com/SylvainBigonneau)
